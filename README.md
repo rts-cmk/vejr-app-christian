@@ -11,11 +11,14 @@ Du skal bruge **OpenWeatherMap (OWM) API** til at hente vejrdata fra deres serve
 4. Lav en anden funktion, der sender en forespørgsel til **[OWM Current Weather API](https://openweathermap.org/current)** med:
    - De geografiske koordinater
    - Din API-nøgle  
-   Du vil modtage et svar med aktuelle vejrdata for den valgte by, herunder temperaturen.
+     Du vil modtage et svar med aktuelle vejrdata for den valgte by, herunder temperaturen.
 5. **Vis temperaturen** på hjemmesiden sammen med:
    - Bynavn
    - Eventuelt et passende ikon eller billede for vejret (se Weather Icons)
 6. **Test din hjemmeside** og sørg for, at den virker for forskellige byer og håndterer eventuelle fejl eller ugyldige input.
 
 ### Aflevering:
+
 - Push til GitHub og husk pull request til main
+
+test
